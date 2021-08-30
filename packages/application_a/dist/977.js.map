@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://application-a/./src/app.jsx"],"names":["SayHelloFromA"],"mappings":"oKAEe,SAASA,IACtB,OACE","file":"977.js","sourcesContent":["import React from 'react';\n\nexport default function SayHelloFromA() {\n  return (\n    <h1>Hello from Application A!</h1>\n      \n  );\n}"],"sourceRoot":""}

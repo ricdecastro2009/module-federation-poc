@@ -1,0 +1,2 @@
+(window.webpackJsonpapplication_b=window.webpackJsonpapplication_b||[]).push([[816,977],{977:(e,n,t)=>{"use strict";t.r(n),t.d(n,{default:()=>a});var l=t(210),r=t.n(l);function a(){return r().createElement("h1",null,"Hello from Application B!")}},816:(e,n,t)=>{"use strict";t.r(n);var l=t(210),r=t.n(l),a=t(614),c=t.n(a),o=t(154),u=t.n(o),i=t(977);c().render(r().createElement(r().Fragment,null,r().createElement(i.default,null),r().createElement(u(),null)),document.getElementById("root"))}}]);
+//# sourceMappingURL=816.js.map

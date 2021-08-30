@@ -1,0 +1,17 @@
+{
+  "name": "federation-example",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "install-all": "concurrently \"cd packages/application_a && npm i\" \"cd packages/application_b && npm i\"",
+    "build": "concurrently \"cd packages/application_a && npm run build\" \"cd packages/application_b && npm run build\"",
+    "serve": "concurrently \"cd packages/application_a && npm run serve\" \"cd packages/application_b && npm run serve\"",
+    "start": "concurrently \"cd packages/application_a && npm start\" \"cd packages/application_b && npm start\""
+  },
+  "devDependencies": {
+    "concurrently": "^5.3.0"
+  }
+
+}

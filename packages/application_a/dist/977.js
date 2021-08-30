@@ -1,0 +1,2 @@
+(window.webpackJsonpapplication_a=window.webpackJsonpapplication_a||[]).push([[977],{977:(n,a,p)=>{"use strict";p.r(a),p.d(a,{default:()=>o});var e=p(210),i=p.n(e);function o(){return i().createElement("h1",null,"Hello from Application A!")}}}]);
+//# sourceMappingURL=977.js.map
